@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "E-commerce Website",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A fully functional e-commerce website built using Laravel and Vue.js. The website includes features such as product listings, shopping cart, user authentication, and payment integration."
+    },
+    {
+        "id": 2,
+        "title": "Social Media App",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A social media application developed using React and Node.js. The app allows users to create profiles, post updates, follow other users, and engage in social interactions."
+    },
+    {
+        "id": 3,
+        "title": "Mobile Expense Tracker",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A mobile expense tracking app built for iOS and Android using React Native. The app enables users to track their expenses, set budgets, and generate reports for better financial management."
+    },
+    {
+        "id": 4,
+        "title": "Portfolio Website",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A personal portfolio website showcasing my work and skills. The website is built using HTML, CSS, and JavaScript, and it includes sections for projects, about me, and contact information."
+    },
+    {
+        "id": 5,
+        "title": "Task Management App",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A task management application developed using Django and Angular. The app allows users to create tasks, assign them to team members, track progress, and set deadlines for efficient project management."
+    },
+    {
+        "id": 6,
+        "title": "Music Streaming Service",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "An online music streaming platform that provides access to a vast library of songs. The service offers features like personalized playlists, recommendations, and social sharing, built using technologies such as Node.js and MongoDB."
+    },
+    {
+        "id": 7,
+        "title": "Food Delivery App",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A food delivery application built for iOS and Android using Flutter. The app allows users to browse nearby restaurants, place orders, track deliveries in real-time, and make payments securely."
+    },
+    {
+        "id": 8,
+        "title": "Online Learning Platform",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "An online learning platform offering courses on various subjects. The platform supports video lectures, quizzes, assignments, and discussion forums, and it is built using technologies like Ruby on Rails and PostgreSQL."
+    },
+    {
+        "id": 9,
+        "title": "Travel Booking Website",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A travel booking website that allows users to search for flights, hotels, and vacation packages. The website integrates with third-party APIs for real-time availability and booking, and it is developed using PHP and MySQL."
+    },
+    {
+        "id": 10,
+        "title": "Fitness Tracking App",
+        "previewLink": "https://zippy-yeot-9e3c53.netlify.app",
+        "thumbnailLink": "https://loremflickr.com/g/320/240/paris",
+        "details": "A fitness tracking app for monitoring workouts and progress. The app provides features such as exercise tracking, goal setting, workout history, and performance analytics, and it is built using Kotlin and Firebase."
+    }
+]
